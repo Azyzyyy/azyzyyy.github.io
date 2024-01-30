@@ -1,3 +1,9 @@
+.picture {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+
 .h1 {
     color:aquamarine;
     font-style: italic;
@@ -10,7 +16,7 @@
 
 .Specifications {
     color: antiquewhite;
-    background-color: beige;
+    background-color:cornflowerblue
     margin: auto;
 }
 
