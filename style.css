@@ -1,26 +1,37 @@
 .picture {
     display: block;
-    width: 800px;
-    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .h1 {
-    color:aquamarine;
-    font-style: italic;
+    color:black;
+    font-size: 10;
+    text-align: center;
+    margin-left: 25px;
 }
 
 .name {
     font-style: italic;
     font-size: medium;
+    margin-left: 25px;
+    background-color: thistle;
 }
 
 .Specifications {
-    color: antiquewhite;
-    background-color:cornflowerblue
-    margin: auto;
+    color: black;
+    background-color: thistle;
+    margin-left: 25px;
+    font-style: italic;
 }
 
 #description {
     background-color: thistle;
+    margin-left: 25px;
+    font-style: italic;
+}
+
+h2 {
     margin-left: 25px;
 }
